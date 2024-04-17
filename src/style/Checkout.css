@@ -1,0 +1,32 @@
+ 
+
+ .pilling_form .form_group input{
+  border: 1px solid var(--card-bg-02);
+
+ }
+
+ .checkout_form{
+border-radius: 5px;
+padding: 20px;
+color: #fff;
+  background: var(--primary-color);
+ }
+
+ .checkout_form h6, .checkout_form h4{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+ }
+
+ .checkout_form h6{
+  margin-bottom: 20px;
+ }
+
+ .checkout_form h4{
+  border-top: 1px solid rgba(221, 221, 221, 0.253);
+  padding-top: 20px;
+ }
+ .checkout_form .auth_btn{
+  background: #fff ;
+  color: var(--primary-color);
+ }
