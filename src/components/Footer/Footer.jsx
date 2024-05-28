@@ -94,7 +94,7 @@ const Footer = () => {
             </div>
           </Col>
           <Col lg='12' >
-            <p className="footer_copyright">CopyRight {year} developed by Ahmed khaled yahia</p>
+            <p className="footer_copyright">CopyRight {year} developed by Company</p>
           </Col>
         </Row>
       </Container>
